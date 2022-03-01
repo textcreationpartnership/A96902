@@ -1,0 +1,532 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Solemne League and Covenant of three kingdomes, cleared to the conscience of every man, who is not willingly blinde, or wilfully obstinate. The antiquity of the Covenant on the Scots-side; the seasonablenesse of it on the English side; the admirable wisedome of God, in stirring-up the spirits of men on all sides, at such a time as this; all this with other things mightily conducing to, and promoting of the militia of kingdomes, and the posturing every person there, is referred to a place, where it may take up more room. The clearnese for the matter of this Covenant; the solemnity for the manner of it, is the subject of these few leaves, and yet to be made more clear to them thaT have a mind to understand. By E.W. Imprimatur Edm: Calamy, the morrow after wee lifted up our hands, and subscribed our names to this Covenant, Octob. 2. 1643.</title>
+            <author>Woodward, Ezekias, 1590-1675.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 70 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96902</idno>
+            <idno type="STC">Wing W3505</idno>
+            <idno type="STC">Thomason E71_13</idno>
+            <idno type="STC">ESTC R14305</idno>
+            <idno type="EEBO-CITATION">99859642</idno>
+            <idno type="PROQUEST">99859642</idno>
+            <idno type="VID">111737</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96902)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111737)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 12:E71[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Solemne League and Covenant of three kingdomes, cleared to the conscience of every man, who is not willingly blinde, or wilfully obstinate. The antiquity of the Covenant on the Scots-side; the seasonablenesse of it on the English side; the admirable wisedome of God, in stirring-up the spirits of men on all sides, at such a time as this; all this with other things mightily conducing to, and promoting of the militia of kingdomes, and the posturing every person there, is referred to a place, where it may take up more room. The clearnese for the matter of this Covenant; the solemnity for the manner of it, is the subject of these few leaves, and yet to be made more clear to them thaT have a mind to understand. By E.W. Imprimatur Edm: Calamy, the morrow after wee lifted up our hands, and subscribed our names to this Covenant, Octob. 2. 1643.</title>
+                  <author>Woodward, Ezekias, 1590-1675.</author>
+               </titleStmt>
+               <extent>[4], 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Christopher Meredith, and are to be sold at his shop in Pauls Church-yard, at the signe of the Crane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Oct: 14".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Solemn League and Covenant (1643). --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111737:1" rendition="simple:additions"/>
+            <p> The ſolemne LEAGUE <hi>AND</hi> COVENANT OF Three Kingdomes, Cleared to the Conſcience of Every man, who is not willingly Blinde, or wilfully obſtinate.</p>
+            <p>The Antiquity of the <hi>Covenant</hi> on the <hi>Scots-ſide;</hi> The ſeaſon<g ref="char:EOLhyphen"/>ableneſſe of it on the <hi>Engliſh</hi> ſide; The Admirable Wiſedome of GOD, in ſtirring-up the ſpirits of men on all ſides, at ſuch a time as this;</p>
+            <p>All this with other things mightily conducing to, and promoting of the <hi>Militia</hi> of Kingdomes, and the Poſturing every Perſon there, is referred to a place, where it may take up more room.</p>
+            <p>The clearneſſe for the <hi>Matter</hi> of this Covenant; The ſolemnity for the <hi>Manner</hi> of it, is the ſubject of theſe few Leaves, and yet to be made more clear to them that have a minde to underſtand.</p>
+            <p>By <hi>E W.</hi>
+            </p>
+            <q>
+               <bibl>Neh. 9. 38.</bibl>
+               <p>
+                  <hi>And becauſe of all this, we make a ſure</hi> Covenant <hi>and Write it, and our Prin<g ref="char:EOLhyphen"/>ces, Levites</hi> and <hi>Prieſts, ſeal</hi> unto it.</p>
+            </q>
+            <q>
+               <bibl>Eze. 20. 37, 38.</bibl>
+               <p>
+                  <hi>I will bring you into the Bond of the Covenant: And I will purge out from among you the Rebels</hi>
+               </p>
+            </q>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>Imprimatur</hi>
+                  </p>
+                  <closer>
+                     <signed>EDM: CALAMY,</signed> 
+                     <dateline>
+                        <date>the morrow after wee lifted-up our Hands, and Subſcribed our Names to this <hi>Covenant, Octob.</hi> 2. 1643.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Chriſtopher Meredith,</hi> and are to be ſold at his ſhop in <hi>Pauls</hi> Church-yard, at the ſigne of the <hi>Crane.</hi> 1643.</p>
+            <pb facs="tcp:111737:2"/>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:111737:2"/>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Will take leave to ſet down my <hi>Comment</hi> upon the cleareſt <hi>Text,</hi> that ever was ſeen in the world, except one, the moſt <hi>Sacred Text.</hi> What need a Comment then? I will Anſwer with his Queſtion, Who came down to ſee, how it fared with his Brethren, when <hi>Go<g ref="char:EOLhyphen"/>liah</hi> was Maſter of the field; <hi>Is there not a cauſe?</hi> We have <note place="margin">1 <hi>Sam.</hi> 17. 29.</note> Heards and Droves of Beaſt-like-Men, for <hi>Doctors</hi> (Teachers of lies) are their Leaders, whoſe <note n="*" place="margin">It relates to Paſtors or people, for they are equally brutiſh, Paſtors rather.</note> tender conſciences ſcruple very much at this <hi>Covenant,</hi> as alwayes they have done; They cannot lift-up their Hands, or Subſcribe their Names thereto; but to lift-up their eyes and hearts unto lying vanities, that they can do; That curſed <hi>Liberty for Sports</hi> on the <hi>Lords Day,</hi> that they could approve; Edification of Altars, bowing before them, and ſerving of Images, even all this alſo, and more than all this; They could foment and put<g ref="char:EOLhyphen"/>on a Bloody Warr againſt their Brethren, this they could do, and no regret of Conſcience at all this; but this entring into <hi>Covenant,</hi> there they ſtrain. <g ref="char:V">Ʋ</g>nreaſonable men! <hi>Theſe have not Faith.</hi> Faith! nor Reaſon neither, nor any more <hi>Sence</hi> than a Beaſt has to feel where it pincheth, and to taſte their Paſture, where it is ſweeteſt; They grope at mid-day, blinde with Light; Now ſhew them the <hi>Sun in your hand,</hi> as the Proverbe is, they ſay they do not ſee it; though <hi>Gods-</hi>Hand be lifted-up before all Iſrael, and before the Sun, they will not ſee; and though his people hand be now lifted-up to GOD, yet theſe will not ſee, no not now, nor will they yet underſtand. O ye bruitiſh men! <hi>When will ye underſtand?</hi> When will ye <hi>ſhew your ſelves men?</hi> For GODS ſake, for your Souls ſake, your own, and the Souls committed to your charge, conſider; Ye muſt ſee, ye muſt underſtand whether ye will or no: That ye may do both ſeaſonably, look into the <hi>Covenant</hi> again, ſee, what is it you quarrell with, or take offence at there? Ye are not reſolved in ſome Caſes of Conſcience; Have patience, Ile reſolve you anon, according to Truth: In the mean time you will remember, I hope, whoſe Proctors ye are, and be con<g ref="char:EOLhyphen"/>founded, becauſe of your ſhame. When man commanded you a bloody worke, and abominable Services, how did you gird-up your loyns, and ſtir-up your ſelves, and People by exhortations and prayers! Now GOD and His p<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ople cals-upon you to joyn with them in Covenant, and now you draw back!</p>
+            <p>
+               <label>Object.</label> Yes, and good Reaſon, for when we did ſtir-up our good people to a War with <hi>Scotland,</hi> then we were for the King, and for Religion, [the Ser<g ref="char:EOLhyphen"/>vice-Book,
+<pb facs="tcp:111737:3"/> for all their Religion is there] now entering into Covenant, wo ſhall go againſt the King, &amp;c.</p>
+            <p>
+               <label>Anſw.</label> Much might be ſpoken in a fools Ear, and to little purpoſe; I will onely ſay this, L<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t theſe men make Conſcience in point of <hi>fear</hi> (it contains the whole worſhip) to their GOD: and then we will truſt them in point of Ho<g ref="char:EOLhyphen"/>nour to their King; Let them ceaſe from fighting againſt GOD, by lying vanities, then we ſhall think them conſcien<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ious men, and loyall to our Prince; In the mean time, doing as they do, ſuch things, and taking pleaſure in them, who do the ſame things, which do provoke the Lord to his Fate, we muſt account th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe men, as they are, moſt corrupt in their lives, and ſo in their Doctrines, and drawing-back <hi>unto Perdition;</hi> Take heed, we know the word, It is utter Deſtruction, a periſhing for ever.</p>
+            <p>One word to thee Reader, whom I take to be an honeſt man; Igno<g ref="char:EOLhyphen"/>rant enough, but thy ignorance troubles thee, it is thy hearts griefe; Thou art willing to underſtand, and thou liveſt-upright according to thy knowledge: This to thee; I ſaid before, that this is a very clear <hi>Covenant;</hi> indeed it is, the cleareſt that ever man Penned here below; The Finger of GOD is in it too; by help of That Hand, which wrote th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Ten Words</hi> at firſt, this was In<g ref="char:EOLhyphen"/>dited and Written, ſure enough, for truely it is as the good <hi>Word of GOD;</hi> Conſider we, as follows, <hi>Curſed is he That do's not fulfill all therein con<g ref="char:EOLhyphen"/>tained, with full purpoſe of heart, and endeavour according to his light and power;</hi> And yet ſo good and clear though it be, even as is the <hi>Work</hi> and <hi>Word</hi> of GOD, yet many there are, as thou ſeeſt and heareſt, Doctors and Maſters in Iſrael, who do fault it. Be not offended at that; My little reading tels me of one, who found fault with all the Works of GOD, His whole <hi>Creation;</hi> This might have been mended, and ſo might that; here and there it might have been better than it is; Though GOD ſaid of every thing he had mad<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <hi>It</hi> (was) <hi>very good;</hi> Now thou heareſt, That GOD <note place="margin">
+                  <hi>Gen.</hi> 1. 31.</note> has heard the Works of his Fingers blamed, and was patient the while; And I proteſt unto thee, That I could name the Man, who ſaid, <hi>The Word of GOD, His Text, was ſeditious.</hi> Do not thou regard what brutiſh men ſay, whoſe gutts are in their head, and brains in their belly, <hi>minde earthly things;</hi> re<g ref="char:EOLhyphen"/>gard them not, but attend with all diligence<g ref="char:punc">▪</g> To what thou and I have <hi>lifted-up</hi> our hands, and <hi>Subſcribed our Names;</hi> This follows, not alwayes in the ſame words; for my Work is <hi>Explication, (i. e.)</hi> To clear the Text.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:111737:3"/>
+            <head>
+               <hi>Of</hi> A ſolemne <hi>League</hi> and <hi>Covenant,</hi> ex<g ref="char:EOLhyphen"/>plained and cleared to the Conſcience of every man, that is not willingly blinde, nor wilfully obſtinate.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hough I intend a continued Explication, yet I cannot thinke of a more orderly beginning, than with a ſhort Dialogue, ſo to debate a few matters one with the other firſt.</p>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Your prime care is for the <hi>Scots,</hi> the preſervation of their <hi>Religion</hi> and <hi>Diſcipline.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Yes, and great reaſon it ſhould be ſo, for their care to<g ref="char:EOLhyphen"/>wards us exceeds ours towards our ſelves.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>You ſwear to maintain the <hi>Diſcipline</hi> of <hi>Scotland,</hi> a bold Oath! not one of ten amongſt you, that underſtands what he ſwears.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Indeed our light is not clear at that point, nor theirs neither, not ſo clear as it ſhall be; yet, without doubt, I ſhall clear that objection fully in due place: much muſt be ſaid to it, which ſhall not interpoſe now.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>But what need you think ſo much of defence, and managing a warre? you may have a Peace, and at an eaſie rate, if you can ſee the way unto it, and Petiti<g ref="char:EOLhyphen"/>on thereafter; the <hi>Iriſh</hi> may have it, nay, we hear it is granted them; and, doubt<g ref="char:EOLhyphen"/>leſſe, if ye are modeſt and baſhfull, ſome there are who will intercede for you, touching this matter. Beſides, there are men amongſt your ſelves very many, who have been importunate Petitioners for Peace, as their Wives were the eighth of <hi>Auguſt</hi> laſt, and will put on for it again.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Here are ſome State-matters, let Stateſmen look thereunto: Theſe are within compaſſe of our knowledge, and Eternall Truths. 1. That an <hi>Iriſh</hi> Peace is worſe than an <hi>Iriſh</hi> Warre, and then we want a word to expreſſe how abomi<g ref="char:EOLhyphen"/>nable it is. 2. That curſing and bleſſing cannot come forth of the ſame Mouth. 3. Nor was it ever ſeen in our Land, ſince men dwelt there, that the Idol and Peace, (except an Idol-Peace) came in from the ſame Quarters. 4. Let then talk what they will of their <hi>Peace,</hi> GOD has ſworn, and his people too, That he will have war with them, avenge upon them the Blood of His Servants, caſt them down, and lay them lower then the earth, who have endeavoured to lay His
+<pb n="2" facs="tcp:111737:4"/> Glory in the duſt, and to dethrone the <hi>Lord Jeſus Chriſt.</hi> And for the other Petitio<g ref="char:EOLhyphen"/>ners, with their commanding wives, they will come too late now, we have cove<g ref="char:EOLhyphen"/>nanted againſt them, their Atheiſme, Superſtition, Prophaneſſe, and to throw theſe all out; ſo alſo againſt the evill of our own lives, every man confeſſing <hi>the Plague of his own heart,</hi> and reſolving in <hi>Gods</hi> ſtrength, to ſearch his own tents, and to caſt out the accurſed thing thence; and then to walk in the midſt of his houſe, as a man whoſe Vows are upon him; Gods people as His people; Gods Mini<g ref="char:EOLhyphen"/>ſter, as His Miniſter, ſhewing forth the Doctrine that it is from Heaven, by the light of his converſation before men; for the Covenant ends, as we ſhall ſee anon, in a perſonall Reformation.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Then Peace comes in now, a Peace of Gods giving, according to your own hearts deſire; what needs then ſuch preparation for Warre, and Vows to defend each others things?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>The greateſt need now, becauſe of the <hi>Agony</hi> or fight of afflictions, we now expect, and will be: We are but in a way to Peace, purſuing it <hi>orderly,</hi> as we read before, every man reſolving for his own part, to reform one, and to con<g ref="char:EOLhyphen"/>tend for the Faith: But <hi>Peace,</hi> I meane a peace of Gods giving, (we abominate any other) ſo abuſed, ſo perverted, ſo ill improved; and Truth, ſo reproachfully thruſt away, will not be given back again to us quickly: There muſt be <hi>Time</hi> and <hi>Coſt</hi> about it, and we muſt wait and expect the greateſt <hi>brunt</hi> now, the ſoreſt oppo<g ref="char:EOLhyphen"/>ſition againſt all three Kingdoms: <hi>Ye end<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>red a great fight of afflictions,</hi> ſaith the <note place="margin">Heb 10. 32.</note> Apoſtle: When? <hi>After ye were illuminated,</hi> after you had a clear ſight of God and your ſelves, of Gods wayes, and your wayes; how ye walked, how He walked; how contrary one to the other: <hi>After ye were illuminated, a ſore fight:</hi> ſo after we en<g ref="char:EOLhyphen"/>ter into Covenant every Man for himſelfe, to do ſo and ſo; then expect a fierce oppoſition, a ſore <hi>Agony;</hi> which well conſidered on, will knit us the faſter all to<g ref="char:EOLhyphen"/>gether, all as one man; and make our bonds the ſtronger, engage us more to look to our ſelves, and each to others matters.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>What have you to do with <hi>Scotland,</hi> their Religion and Diſcipline? let them look to themſelves, and you to your ſelves: It is againſt the Laws and Conſtitutions of Kingdoms, that you ſhould meddle with their matters or they with yours.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>In truth I have heard as much as this once, and again, but I will heare it no more; it is a wicked objection, it makes my Ears tingle: If we caſt off the care each of other, farewell all, for all fals to ruine. O abominable! All under one Head and one King, Profeſſing the ſame Faith, Heirs of the ſame hope, <hi>Members on<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of another,</hi> and yet againſt the Law, To have care one of another! The care of all the Churches lay upon <hi>Paul,</hi> what Law did he break there? <hi>Eli<g ref="char:EOLhyphen"/>zabeth,</hi> whom every mouth did Bleſſe, except that which does Blaſpheme, (for ſhe loved the Nation) She Cared for <hi>Scotland,</hi> ſent ſuccours thither ſeventy yeers agon; What law did She break in ſo doing? Not the Law of God, nor of Charity, nor of Chriſtian Communitie; then nor the Laws of men. Indeed is is a <hi>Cain's</hi> Objection, <hi>Am I my Brothers Keeper?</hi> Yes, that he was, and ſo every Man is, his Brothers Keeper. It is ſo of Kingdoms too, ſpecially united under one
+<pb n="3" facs="tcp:111737:4"/> Crowne, wherein there is a Common Intereſt, which commands a Common Care; There is a <note n="(a)" place="margin">Tit 1 4.</note> 
+                  <hi>Common Faith,</hi> and a <note n="(b)" place="margin">I<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>de 3.</note> 
+                  <hi>Common Salvation,</hi> which engageth us unto <hi>Scotland, Scotland</hi> unto us, To contend for that <hi>Faith</hi> and to ſeek the <hi>Common wealth</hi> each of other: Therefore we will not hear what <hi>Cain</hi> objects, for <hi>he ſlew his Brother:</hi> We ſtand every one charged to Care every one <hi>for anothers things; Scotland</hi> to maintain our Religion, and Diſcipline; we, theirs; and ſo our Conference ends; now I make way to the Objection.</p>
+               <p n="1">I. If ſo be the Devill and his Proctors, ſubtill Brokers for <hi>Babylon,</hi> ſhall en<g ref="char:EOLhyphen"/>deavour, as they have done, To put out the Eyes of our Brethren in <hi>Scotland,</hi> To take away <hi>Religion</hi> (which we muſt be as tender of as of our Eyes, and preſerve with the ſame diligence, as we do our <note n="(c)" place="margin">
+                     <hi>Qu<gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> pu<g ref="char:EOLhyphen"/>ra eſt p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lla occ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>li, &amp;c.</hi> Salv. de Gu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. l. 2.</note> 
+                  <hi>Souls)</hi> and <hi>Diſcipline</hi> in <hi>Scotland,</hi> or blend and mixe it with their folly; mate either th'one or th'other with their madneſſe, <hi>Service</hi> Book, or <hi>Services;</hi> oppugne or <hi>ſtorm</hi> it by any other more violent way, we have <hi>lifted up our hands,</hi> That according to the Power in our hand, (in our Calling and Station, mark that) we will oppoſe the Devill and all his Biſhops. The Adverſary ſhall not take away their Religion, nor mixe it nei<g ref="char:EOLhyphen"/>ther, nor their <hi>Diſcipline;</hi> we have lifted up our hands unto it, and to the moſt <hi>High God</hi> in all the Peoples fight, That we will oppoſe them, who will oppoſe our Brethren in theſe matters.</p>
+            </sp>
+            <p>
+               <label>Object.</label> Fooles! firſt they take a Vow, and <hi>after enquire</hi> 
+               <note n="(d)" place="margin">Eccleſ.</note> 
+               <hi>what is the Diſcipline of Scotland?</hi> They that have lifted up their Hands to maintain it, do not know what it is.</p>
+            <p>
+               <label>Anſw.</label> Like enough, it is ſo with me and many more; And truly we are not Carefull, much leſſe Curiouſly Inquiſitive about it. Grant us to be <hi>Idiots,</hi> Poore Illiterate men; Nay, if <hi>God</hi> has given unto any of us more Light in a Land of <hi>Viſions,</hi> Bleſſed be His Name; But we are Content to be accounted Idiots at this time, having no more underſtanding, nor perhaps ſo much, touching the Diſci<g ref="char:EOLhyphen"/>pline in <hi>Scotland,</hi> (there is all the Queſtion that can be made indeed, or ſcrupled at) than <hi>Joſiah</hi> (a young Saint, yet an old Diſciple) could have in all the <hi>Com<g ref="char:EOLhyphen"/>mandements,</hi> and <hi>Statutes,</hi> and <hi>Teſtimonies,</hi> and yet he made a Covenant before the <hi>Lord,</hi> to keep them every one: So <hi>Joſiah</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id, and made the People do, accord<g ref="char:EOLhyphen"/>ing to the Light he had; but with a ſincere heart, with <hi>all his heart,</hi> and <hi>with all his</hi> 
+               <note place="margin">2 Chron. 34. 31, 32.</note> 
+               <hi>Soul to Perform the words.</hi> The Intent of the heart was ſincere, and ſtood in a di<g ref="char:EOLhyphen"/>rect oppoſition to <hi>Ahabs</hi> houſe, and all the Idolatries, and Heatheniſh Services there; and that was as much as was required of him, or his people, and to the extent of their Oath; I muſt adde, <hi>and Ours,</hi> which ſtands in oppoſition onely to <hi>Ahabs</hi> Houſe, the Pope, and his Biſhops oppoſition againſt the ſaid Diſcipline. I will give one Inſtance more, becauſe I conceive no ſeeing Man can ſtumble any where elſe, (and there his Paſſage is cleared with excellent Prudence) poſſibly we underſtand no more touching the <hi>Scots</hi> Diſcipline, than the <hi>Potters,</hi> (I finde them in the Text, and I will Inſtance in them all along) Illiterate Men, their Wives, and their Sons, and their Daughters, could underſtand the Commande<g ref="char:EOLhyphen"/>ments of the <hi>Lord,</hi> His Judgements, and His Statutes; and yet all theſe entred in<g ref="char:EOLhyphen"/>to <note place="margin">Ne<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>em. 10. 28.</note> a <hi>Curſe</hi> (I pray you mark it) and into an <hi>Oath,</hi> To do, and To obſerve all the
+<pb n="4" facs="tcp:111737:5"/> fore-mentioned. The Statutes and the Judgements of The <hi>Lord,</hi> were deep things, hard to be underſtood: Not Levites onely and the Prieſts, but the Rab<g ref="char:EOLhyphen"/>bins might exerciſe themſelves in the ſearch of thoſe things, and for a full under<g ref="char:EOLhyphen"/>ſtanding thereof.</p>
+            <p>
+               <label>Object.</label> But the <hi>Potters</hi> and their <hi>Wives,</hi> having knowledge and underſtanding, (as it is ſaid they had) knew that thoſe Judgements and Statutes were good and juſt, for they were The <hi>Lords, His</hi> Statutes, <hi>His</hi> Judgements, Who is GOD in Heaven, and over all the Earth: But the ſaid <hi>Diſcipline</hi> is the <hi>Diſcipline</hi> of <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> a Church upon Earth! The Potters and their Wives might Sweare to the one, for they were ſure thoſe were the Statutes of God <hi>His</hi> Judgements, and <q rend="margQuotes">"<hi>Nulla litura in Decretis ſapientum,</hi> there is no doubt of any fault or imperfection in the Decrees and Ordinances of Heaven;</q> But in the Decrees and Ordinan<g ref="char:EOLhyphen"/>ces of man there have been, are, and will be defects and wants to the worlds end; and ſo of the <hi>Diſcipline</hi> of <hi>Scotland,</hi> Therefore we cannot Swear to it.</p>
+            <p>
+               <label>Anſw.</label> You are not called to it, not called to Swear, That the <hi>Diſcipline</hi> of <hi>Scot<g ref="char:EOLhyphen"/>land</hi> is perfect; Nay, you may Swear, if you were called to it, That the <hi>Diſcipline</hi> of <hi>Scotland</hi> is imperfect, though as near <note n="*" place="margin">to th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Rule</note>, as Poſſibly, their <hi>Light</hi> could bring them, yet but according to the <hi>Line</hi> of men, and then very Imperfect, and you may ſwear it to be ſo: For we may ſay of the Statutes and Ordinances of Men, even in Church Matters, as the Author concludes his Story, <hi>If I have done well, and as the ſtory required, It is the thing I deſired; but if I have written ſlenderly and barely, It is</hi> 
+               <note place="margin">2 Mac. 15. 39.</note> 
+               <hi>that I could:</hi> You may be ſure this is <hi>Apocrypha,</hi> you will not ſwear that all there is true, but you dare ſay that all is imperfect there. I could ſay much more, even that the <hi>Pure Word of God</hi> looſeth ſomething of its Clearneſſe in its convey<g ref="char:EOLhyphen"/>ance to us; and taſteth ſomething of Man, through the Corruption of that Con<g ref="char:EOLhyphen"/>duit-Pipe that brings it to us. For Application of all this, I adde; We enquire not about the <hi>Diſcipline</hi> of <hi>Scotland,</hi> we ask no Queſtions there for Conſcience ſake, we are Chriſtians by Profeſſion, and Profeſſe to walk and judge by our Rule, That the <hi>Diſcipline</hi> of <hi>Scotland</hi> is according to that Rule, as near to the Pat<g ref="char:EOLhyphen"/>tern in the Mount, as humane underſtanding can bring it: We beleeve verily, That our Brethren in <hi>Scotland,</hi> have ſought Counſell at Gods Mouth, and Directi<g ref="char:EOLhyphen"/>on from His Hand, for we ſee with all our Eyes, That He has Counſelled them, He has Directed them, He has Bleſſed them, and they ſhall be Bleſſed: He has (ma<g ref="char:EOLhyphen"/>king Himſelf known unto them <hi>by His Name JEHOVAH)</hi> raiſed-up amongſt them a <hi>Stage,</hi> whereon He has Acted like a <hi>God:</hi> And this we beleeve more touching this <hi>Matter</hi> or <hi>Forme</hi> rather of Worſhip, (for I would clear this) That as <hi>God</hi> ſhalbe pleaſed to communicate more Light unto them touching His <hi>Pattern,</hi> they will come-up yet cloſer thereunto; and by the degrees of Communication that way, come-up yet nearer unto the Rule. But in the mean time, if the Common Enemy, the Pope and his Biſhops, ſhall, as they have done, thruſt-in upon them cont<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ary to their Religion and Diſcipline eſtabliſhed amongſt them, we have Lifted-up our hands according to the Power, there To make Head againſt that Common Enemy, ſo oppoſing Gods People.</p>
+            <p n="2">2. And if ſo for the <hi>Religion,</hi> and the <hi>Diſcipline</hi> of <hi>Scotland,</hi> then ſure we will do
+<pb n="5" facs="tcp:111737:5"/> as much, and as heartily for the <hi>Reformation of Religion in the Kingdoms of</hi> England, <hi>and</hi> Ireland; <hi>In Doctrine, Worſhip, Diſcipline, and Government.</hi>
+            </p>
+            <p>
+               <label>Object.</label> But what needs all this? May ſome good Body ſay (though I hope there is no good Body ſo voyd of underſtanding, as to ſay) The Doctrine in the Church of <hi>England,</hi> is a Pure Doctrine, The Worſhip ſo, The Diſcipline and Government ſo; The Church of <hi>England!</hi> A glorious Church! [Archbiſhops, and Biſhops, Deans, and Arch-Deacons, (brave men in their Trappings and Accouterments) theſe were the Church in Name, as <hi>Rome</hi> is now] and cryed<g ref="char:EOLhyphen"/>up ſo to be all over the Chriſtian World: And muſt we ſwear to a Reformati<g ref="char:EOLhyphen"/>on? Where is there a more perfect Church, for <hi>Doctrine</hi> and <hi>Diſcipline,</hi> under the out-ſtretched Canopy? I have heard them ſay, (the Biſhops themſelves) we are well enough, a brave Church; Rich [well decked and trimmed with coſtly Ornaments, which were found lockt-up in <hi>Pauls,</hi> and <hi>Weſtminſter] we want nothing.</hi>
+            </p>
+            <p>
+               <label>Anſw</label> Well! So ſaid a <hi>Church,</hi> as much, almoſt, as this, <hi>That they wanted no<g ref="char:EOLhyphen"/>thing,</hi> when yet their Vaunts were but Conceipts onely, <hi>Thou knoweſt not that thou art Wretched, and Miſerable, and Poor, and Blind, and Naked</hi> 
+               <note n="(e)" place="margin">Revel. 3. <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. Maſter <hi>Brightman.</hi>
+               </note>. And truely, to adde a word, <hi>Mutato nomine, dete narratur,</hi> All this is told of us the <hi>Church of England,</hi> by one, whom we ought to beleeve, becauſe he ſpeaks with the cleereſt Evidence of Truth, even from the Mouth of God. But I am very eaſie to grant at this time, for I will not contend; Let the <hi>Biſhops</hi> have their ſaying, That this <hi>Church</hi> (of <hi>England)</hi> is a <hi>Perfect Church</hi> for matter and forme, and in all the fore<g ref="char:EOLhyphen"/>mentioned; [I can cleer it to the world, That they have made as great a Defor<g ref="char:EOLhyphen"/>mation in the Church, as ever was ſeen in the world, ſince the <hi>Councell of Trent,</hi> the <hi>Iliad</hi> of that Age;] Nay the perfecteſt that ever was, or now is (I cannot perfectly tell what will be) upon the Face of the Earth: Grant that, it ſhall do them no good, nor ſcruple, or offend us at this point; for, can it be a diſhonour to the moſt perfect Church, to Reforme <hi>according to the Word of God:</hi> I trow not; A Church cannot come up too neer unto the <hi>Rule,</hi> the <hi>Word</hi> of <hi>God,</hi> they may Reſt at a diſtance too remote, and farre off; but, I ſay, again, yet I need not ſay it, but we have to do with unreaſonable Men, we cannot come up too neer unto the <hi>Rule</hi> of <hi>Doctrine,</hi> and <hi>Diſcipline,</hi> and <hi>Government.</hi> What is that? It follows, <hi>To the Word of God;</hi> That we endeavour All, in All three Kingdoms, To come up, To the <hi>neereſt Conjunction, and Uniformitie in Religion, Confeſſion of Faith, forme of Church Government, Directory for Worſhip, and Catechizing</hi> (O Bleſſed Work; I ſhould ſpeak to that, but it would not be a little) and Catechizing, <hi>That we and our little ones may, as Brethren, live in Faith, and Love, and the Lord may delight in us.</hi> This is all we have ſworn unto; And do we Repent? Yes, That we were ſo fooliſh, as to make any Scruple here, upon ſo cleer a Text. We are Satisfied now, and had we an hundred Hands, as I Read one Man had, and half as many Mouthes, we would do as much, as much with all our Hands and Mouths, as we have done, and ſo for the next.</p>
+            <p n="2">II. <hi>That we will endeavour in like manner the extirpation of Popery</hi> (the Rooting
+<pb n="6" facs="tcp:111737:6"/> of it out) [What elſe? and] <hi>Pr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>la<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y</hi> [they were never ſeperated, theſe came<g ref="char:EOLhyphen"/>in together, and they muſt go out together.]</p>
+            <p>Ay, but the <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> and his <hi>Wi<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> their Sons and their Daughters too (Pray let me uſe thoſe words. I mean) Illiterate Perſons may ſtumble at this; for indeed, though <hi>Pr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lacy</hi> has won<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erfully Blaſted it ſelf, as <hi>Tyranny</hi> has done, yet good words both; <hi>Tyranny</hi> is but Government; and <hi>Prelacy</hi> a Superioritie amongſt Church-Men; and this muſt be, and we allow of it with all our Hearts; Therefore the <hi>Po<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ters,</hi> and their <hi>Wi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es</hi> (we finde them entring into Covenant,) will obſerve what follows for explication, and cleering their doubt, touching <hi>Prelacy</hi> (for Popery they know it well enough; It is A walking in the wayes of <hi>Jeroboam,</hi> who made <hi>Iſrael</hi> to ſin; and after the Whoredomes of <hi>Ahab</hi> and <hi>Jeze<g ref="char:EOLhyphen"/>bels</hi> houſe, i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> lifting up the Eye and the Heart to <hi>lying vanities;</hi> this is plain <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.)</hi> And now they will underſtand <hi>Prelacy</hi> as well, for, know one, and know both, that is, Church Government by Arch-Biſhops and Biſhops, and their Chancellors, with their Etcetera's, together with (I cannot tell what to call it, but I have heard it called,) The Refuſe and Garbadge of their Courts, depending, and following the <hi>Hierarchy,</hi> as their train, or as the ſhaddow the Body, bringing in <hi>Superſtition, Hereſie, Schiſme, Prophaneneſſe, &amp;c.</hi> Let <hi>Baal</hi> Plead, for <hi>Baal,</hi> becauſe not one, but three Kingdoms have ſworn to Caſt out his <hi>Lord<g ref="char:EOLhyphen"/>ſhip,</hi> and his Images, and to break down their houſe, perhaps, and make it as <hi>Baals,</hi> a draught houſe; Let <hi>Baal</hi> Plead and bring forth ſtrong Reaſons; The <hi>Potter</hi> and his <hi>Wife</hi> will not Plead for them, for though they may live in the Remoteſt Parts of the Kingdom, yet they are not ſuch ſtrangers to the Common-Wealth of <hi>Iſrael,</hi> as not to know, (though they underſtand not the word <hi>Hie<g ref="char:EOLhyphen"/>rarchy</hi> 
+               <note n="*" place="margin">
+                  <hi>I<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> is a Sa<g ref="char:EOLhyphen"/>cre<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> princi<g ref="char:EOLhyphen"/>pal<gap reason="illegible" resp="#APEX" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>e,</hi> for it had its O<g ref="char:EOLhyphen"/>riginall f<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m the Heat<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ens <hi>Arch Fla<g ref="char:EOLhyphen"/>min<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and Fla<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>in<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> co<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inued with a very little change and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſſe Reaſon up <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll moſt to this <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay; It is a cu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſed Govern<g ref="char:EOLhyphen"/>ment crept into the Church <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<g ref="char:EOLhyphen"/>ſteed of an <hi>Hiera<gap reason="illegible" resp="#APEX" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>a</hi> a <hi>Sacred</hi> ſer<g ref="char:EOLhyphen"/>vice, whi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h 1. a<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſhall be.</note>) theſe Perſons what they are, what <hi>Blaſphemies</hi> they have ſpoken, (beſides hard words;) what <hi>Hereſies</hi> they have maintained; what <hi>Injuſtice</hi> they have done, (ungodly deeds;) and what <hi>In lets</hi> they have been to <hi>Prophaneſſe:</hi> Theſe cannot be Ignorant, That the Government by Archbiſhops, has been Tyran<g ref="char:EOLhyphen"/>nicall, <hi>Pharaoh</hi> like, from the firſt Archbiſhop to him, that, three yeers a gone, ſate in his Throne, I ſay, <hi>Pharaoh</hi> like: and his Biſhops [for they were his, and at his Beck, he ſaid unto them, do ye this, and they did it; Countenance Altars, they did it, and more; Give the People a grant to <hi>Riot</hi> on the <hi>Lords</hi> day, they did it; Stop the Mouths of the Miniſters, they did it; Thruſt in the vile, Throw<g ref="char:EOLhyphen"/>out the Pretious, they did it; his Biſhops.] And his Biſhops were as <hi>Pharaohs</hi> Task-maſters, grievous oppreſſors, they have, by help of their Chancellors, and their <hi>Etcetera's, St<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ned</hi> the Church of <hi>God</hi> evermore; And for their Super<g ref="char:EOLhyphen"/>ſtitions, how Groſſe, Palpable, and how many, and Hereſies, as many! How many, all theſe? I have no leiſure to number my haires now: The hearing of them would make a Mans hai<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es ſtand up-right, and his ears to tingle; Theſe are ſo many, and ſo horrid. Ile report but one Hereſie, and this I will report, becauſe it has been an In-let to that, which follows ever, <hi>Prophane<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſſe;</hi> and has done the greateſt diſſervice, that is Imaginable to the <hi>Potters</hi> and their <hi>Wives.</hi> I mean ſtill my Poor Brethren and Siſters in the Countries, that live in the dark, under the droppings of Cathedralls, and the <hi>Cure</hi> of the forementioned, ſuch Brutiſh
+<pb n="7" facs="tcp:111737:6"/> Men. Ile Name the <hi>Hereſie,</hi> and the <hi>Heretick</hi> (whom I have not heard named hitherto, either in the high Court, or in the Aſſembly. In good time we may hear he is both found and thrown-out, for that end I will Name him.) And that both may appear (elſe, as the old Cuſtome was, and as Reaſon is, Ile appear for him to ſuffer his Cenſure,) You ſhall hear the Text firſt: <hi>I will have Mer<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, and</hi> 
+               <note place="margin">Matth 9 13. Doct<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r <hi>Tur<g ref="char:EOLhyphen"/>ners</hi> Text of Scripture fear<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ul<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y blaſphemed.</note> 
+               <hi>not Sacrifice:</hi> I will take leave to explain it, I hope to my <hi>Lords</hi> meaning, and that the Simple may underſtand.) <hi>If thou art going to offer a Sacrifice, and a Work of Mer<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, offer it ſelf to thee in thy way, which cannot be delayed (w<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rk that) Thy Good and Gracious</hi> Lord <hi>will diſpence with thee now for His Sacrifice; He will let that ſtand aſide, that the Work of Mer<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y to thy Brother may be done. Nay let me adde, That Mer<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y may <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ſhewn to an Inferiour Creature, to an Oxe or an Aſſe (I do not account him, as one Calls him, a Brother, Brother Oxe, and Brother Aſſe;) yet, that thou mayeſt ſhew Mercy to either of Both, and to tell thee how well Pleaſing the ſhewing of Mercy to the loweſt</hi> 
+               <note place="margin">Be<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e An<g ref="char:EOLhyphen"/>ſeltur.</note> 
+               <hi>Creatures (for His Mercy is over all) is unto The</hi> Lord <hi>The</hi> God <hi>of Mercies, He will let His Sacrifice give Place the while, thou art ſhewing this Mercy, in helping theſe out of the Di<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, when thou ſeeſt him faln, as thou art paſſing by to offer thy Sacrifice, the Calves of thy Lips now Prayers, and Praiſes.</hi> Though I ſuſpect my underſtanding in higher matters, yet I am Confident here, That this Declares the <hi>Heart</hi> of the <hi>Lord</hi> to His Poor Creatures, and the very ſcope of this Divinitie. Now ſee how the Preacher turned head upon his Text, and his tayl to Heaven before a great pre<g ref="char:EOLhyphen"/>ſence, uttering a notorious Hereſie, as all Men will call it, except Archbiſhops, and Biſhops, and their Curates. Thus he Continued his Speech, I will give the ſumme of it. <hi>See the Indulgence of a God! And a large allowance from Heaven! The Lord of Heaven and Earth, will ſuffer His Sacrifice to give place, while Maſters, and their Servants ſhall recreate themſelves, according as the Declaration (for ſports) [condemned to the fire by the hand of the Hang man] gives them leave. And Bleſſed be</hi> God, <hi>That the Fathers [and Lords] of the Church [and Tyrants over the ſam<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>] have been as open handed in tendering Mercy to Poor Creatures</hi> [giving an Advouſon to Riot on The Lords day, and Cauſing it to be Read on that day, and in that Place, where they are to be the Mouth of God] as their great <hi>Lord</hi> and Maſter is. O Mon<g ref="char:EOLhyphen"/>ſtrous! Stay a little, This was Preached to their Lordſhips ear, and Com<g ref="char:EOLhyphen"/>manded to be Publiſhed by their Authoritie, [the higheſt in Heaven or Earth, not onely Aſſerted to be <hi>by Divine Right,</hi> but ſtabliſhed <hi>by an Oath,</hi> which upon true ſearch, will be found to be the moſt Daring Act and Device, that ever was thought upon, ſince the Divell firſt put it into the thoughts of the heart, To be like <hi>God.]</hi> By their Authoritie, who, being above all, that is Called God, ſet their Right-foot upon the <hi>Church,</hi> and their Left foot on the <hi>Common wealth</hi> (wherein the <hi>Potters</hi> and their <hi>Wives</hi> are great ſharers; I tell them of it, becauſe, if any thing in the World will make them ſenſible, that will) and ſwore theſe ſhould riſe no more; By their Authoritie, Archbiſhops, and Biſhops, (elſe they ſhould have hindered it) this Sermon was Printed, Containing ſuch abhomin<g ref="char:EOLhyphen"/>able Doctrines, which with other the like, has Cauſed more then a <hi>Schiſme</hi> in the Church, and been an an-let to that, which follows, <hi>Prophaneneſſe,</hi> which, like a mighty ſtood <note n="*" place="margin">Mr. <hi>Crook</hi> a <hi>Summerſet<g ref="char:EOLhyphen"/>ſhire</hi> Mini<g ref="char:EOLhyphen"/>ſter, was the fore-man to promote that curſed liberty for ſports on the Lords Day; he has now made him<g ref="char:EOLhyphen"/>ſelf vile be<g ref="char:EOLhyphen"/>fore all the people.</note>, Came-in upon us in the Country moſt impetuouſly; and the
+<pb n="8" facs="tcp:111737:7"/> 
+               <hi>Potters</hi> with their <hi>Wives,</hi> whom we ſhould tender as Brothers and Siſters, were Carryed away with the ſtream; and how many drowned in that Devouring flood, I cannot tell: I Confeſſe my Spirit is ſtirred now for my Bretheren, whom I ſhould ſo love, and to ſtirre-up their Spirits alſo, I will enter into a <hi>Curſe,</hi> before I Proceed, I conceive I have very good Warrant ſo to do; <hi>Let my Tongue cleave to the Roof of my Mouth, and that little cunning</hi> God <hi>in His good Pleaſure, has given my right hand, let is be quite forgotten, if I do not remember what Archbiſhops, Biſhops, and their Curates have done:</hi> Yea, Let my Arm part from my Shoulder, My hand from my Arm, if I do not endeavour my utmoſt, in my Place, to <hi>extirpate,</hi> and root them out, and to throw their — (I may not call them Books) after them. And truely I thought to take this way. To Petition the Aſſembly of Mi<g ref="char:EOLhyphen"/>niſters, That they would ſentence theſe unclean and poyſonous —, to the fire, to be conſumed there. But I conſidered, That the Aſſembly of Miniſters, as the Parliament, The moſt Glorious, that ever was ſeen in the world; have their hearts intent upon theſe matters, therefore I did forbear. 2. I conſidered my ſelf, with the <hi>Potters</hi> and their <hi>Wives,</hi> the Poor of the City, whom, God is not pleaſed (for I will never ſay it is at the pleaſure of Man, and I hope that con<g ref="char:EOLhyphen"/>ſideration will make me more patient of Winter cold, ſo long as <hi>God</hi> is not pleaſed) To ſupply with Coal, and therefore is Wood a dear commodity; We have not ſufficient for our ſelves, and that purpoſe too; for indeed we want, and that purpoſe requires plenty: If I might expreſſe it ſo, I would ſay, <hi>Lebanon is</hi> 
+               <note place="margin">Iſa. 40. 16.</note> 
+               <hi>not ſuffici<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt to burn.</hi> Whom? Archbiſhops, and Biſhops (thoſe that refuſe to Covenant with God and His people) I had almoſt ſaid, for their <hi>Works</hi> deſerve to be burnt, elſe Ile burn for them: And if their <hi>Works</hi> be of ſuch deſerving. ſo meritorious, much more the <hi>Workmen;</hi> Men of great Merit and deſerving that way: But truely, I mean their <hi>Works,</hi> as full of <hi>Superſtitions, Hereſies,</hi> and <hi>Pro<g ref="char:EOLhyphen"/>phaneneſſes,</hi> as a viper is full of poyſon; But I ſaid truely, our <hi>Wood</hi> is not ſuffici<g ref="char:EOLhyphen"/>ent for that purpoſe, and to ſerve our own turns too, though yet, if all were of my minde, we would not make ſpare of Faggots for that Work, though we chillid the more: But I hope we may keep our Wood, yet the Work may be done as well for the preſent, tell Coal come-in. That way we go, and have ſworn to take, will do the buſineſſe very well. We will not ask what way, be<g ref="char:EOLhyphen"/>cauſe we are ſworn Men, and our Vows are upon us, <hi>To do our utmoſt endeavour, To extirpate, Pluck up by the Roots, the Hierarchichall Government;</hi> and then we will do well enough with the reſt: If the Roots of the Oak be grubbed-up, the Bulky Body muſt fall, the Shreds, Arms, Boughes, and out-Leaves muſt wither preſently. So, if Archbiſhops and Biſhops be thrown down; All that, which come-in, grew-up, and ſpred forth with them, muſt down alſo: All <hi>Superſtitions, Hereſies,</hi> and <hi>Pr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>phaneneſſes:</hi> And we have lifted-up the hand and ſubſcribed our Names, That out theſe ſhall, even all that is <hi>contrary to ſound Doctrine, and the Power of Godlyneſſe;</hi> That was well put-in, the Finger of God put it there; <hi>All that is contrary to ſound Doctrine and the Power of Godlyneſſe.</hi> All Archbiſhops and Biſhops, with all their Etceteraes have been ſo. ſo contrary as Hell to Hea<g ref="char:EOLhyphen"/>ven<g ref="char:punc">▪</g> The evill ſpirits to the good; ſo contrary. Then out they ſhall, we ſwear
+<pb n="9" facs="tcp:111737:7"/> they ſhall; we will all with one <note n="(f)" place="margin">Zep. 3. 9. <hi>Conſent,</hi> in Engliſh.</note> 
+               <hi>Shoulder,</hi> joyn hand to hand, and ſhoulder to ſhoulder at this dead lift, and out they ſhall be caſt; <hi>Left we partake of other mens ſins, and then of their Plagues too;</hi> and <hi>that The Lord may be one, and His Name one in the three Kingdoms:</hi> There can be no doubt there. And this for the Reli<g ref="char:EOLhyphen"/>gious Part of the <hi>Covenant,</hi> The Civill follows.</p>
+            <p n="3">III. And that concerns the Kingdoms <hi>Birthright,</hi> the Rights and Liberties of Parliament; and then of the Subject, Mine and Thine, for we put altogether. And <hi>God</hi> forbid we ſhould not every Man lift-up his hand to maintain theſe, for therein he maintains his own Rights and Liberties too, and the Liberties of the Kingdoms: Then I hope we will Maintain the <hi>Parliament,</hi> w<hi rend="sup">ch</hi> maintains all theſe; but I go on: The <hi>Lord forbid it me,</hi> ſaith <hi>Naboth, That I ſhould give the Inheritance</hi> 
+               <note place="margin">1 King. 21. 3</note> 
+               <hi>of my Fathers unto thee.</hi> Give it! he had but ſold it, <hi>Ahah</hi> would <hi>give the worth of it in money:</hi> Ay, but <hi>Naboth</hi> will not give, nor ſell away the Inheritance of his Father, his Birth-right: A notable example, he would not part with his Birth<g ref="char:EOLhyphen"/>right. All the Reaſon then in the world, we ſhould lift up our hand touching this matter, as we have Proteſted and Covenanted twice heretofore. <note n="*" place="margin">See Cove<g ref="char:EOLhyphen"/>nant aſſer<g ref="char:EOLhyphen"/>ted, p. 5. touching our bounden duty to the Parliament.</note>
+            </p>
+            <p n="2">2. <hi>And to preſerve and defend the Kings Majeſties Perſon.</hi>
+            </p>
+            <p>
+               <label>Object.</label> Defend His Perſon! Defenders indeed! Theſe riſe up againſt His Sa<g ref="char:EOLhyphen"/>cred Perſon, bear Arms againſt His Power and Authoritie.</p>
+            <p>
+               <label>Anſw.</label> I did not undertake at firſt to make Anſwer to this man, an obſtinate fellow, having his Conſcience ſeared; he has Anſwer after Anſwer, and Reaſon upon Reaſon to make his folly depart; but words are loſt in a Fools Ear; Nay, beat him as Wheat in a Morter, it will not doe: I confeſſe, when I meet with this unreaſonable man, I depart from my ſelf, for I loſe my patience. I think verily this fellow, and other like him, are the Beaſts that <hi>Paul</hi> fought with at <hi>E<g ref="char:EOLhyphen"/>pheſus.</hi> I will not contend now, but I will give him a ſhorter word then <hi>M<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ney,</hi> which is <hi>Italian,</hi> a Plain Lye in <hi>Jngliſh,</hi> for he is in earneſt, and ſo am I too: I will reprove this <hi>Cretian ſharply,</hi> and ſo let him go; He is a Lyar, a — as he ſhall hear preſenly, for he findes himſelf ra<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ked amongſt his fellows: We bear Arms againſt the moſt bloody Villains, Monſtrous Rebels that ever were upon the face of the Earth. One of that Company, a very young <hi>Procter</hi> in their Court, tells us, before he was aware, <hi>They are all Papiſts.</hi> A notorious abuſe againſt the Popes Holineſſe, to <hi>Father</hi> ſuch a Regiment of — upon his Fatherhood, <hi>Papa</hi> the Pope! Hear what they are, as one ſets-them-out very well to the view of all the World; They are a <hi>Colluvies, a heap, a gathering together of the Scum, and Droſſe, and Garbage of three Kingdoms and more; a moſt accurſed Confederacie, made up of Gebal, and Ammon, and Amalek, the Philiſtines, with the Inhabitants of Tyre, of Jeſuites, Papiſts, and Atheiſts, of Stigmaticall and Infamous Perſons in all Lands:</hi> Againſt theſe we bear Arms, who have done as the Biſhops before them, ſet <hi>their foot, &amp;c.</hi> as before, and their <hi>mouth</hi> againſt Heaven, Blaſphemed the <hi>Holy One,</hi> and His <hi>ho<g ref="char:EOLhyphen"/>ly</hi> ones; made all the Laws of Heaven and Earth, void; trampled the <hi>Word</hi> of Truth under foot, and ſwear <hi>God Damne them, the Lord Chriſt ſhall R<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>igne no more;</hi> We have lifted up our hands againſt theſe Monſters, this Viperous generation, That we will deſtroy them from off the Earth, and pluck his Majeſties Sacred
+<pb n="10" facs="tcp:111737:8"/> Perſon from amidſt theſe curſed Hell-Hounds; We are reſolved ſo to do by all lawfull meanes. The Perſon of the King, a Sacred Perſon; Anointed with oyl! But his Soul! the Perſon indeed; we have lifted-up the hand, That we will Pluck it, according to the Power in our hands, as a Brand out of the fire, for his Soul dwels amongſt Scorpions, thoſe that are ſet on fire; He is <hi>amongſt Lyons,</hi> as <hi>David</hi> 
+               <note n="(g)" place="margin">Pſal. 7 4</note> complained, ſo grievous it was to him; It was his hearts grief, that his Condition was ſuch to be amongſt Scorpions. The King is Content to be where he is, though in the ſame danger that <hi>David</hi> was; We do Vow to pluck him thence, to pray <note n="*" place="margin">That is the manner, pray <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or his preſe<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<g ref="char:EOLhyphen"/>on who ſe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ks their deſtin<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tion. 1 Cor. 4 12; 13.</note> inceſſantly for him, as they do that can pray, and ſo they pluck at him; that is the violence they uſe, and need there is of ſuch a violence. We lift up our hands to an hard work; an hard work it is, to deliver a man, whe<g ref="char:EOLhyphen"/>ther he will or no: But yet the world muſt bear witneſſe with our Conſciences of our loyaltie; We Vow nothing above ſtrength, but to <hi>pray,</hi> and <hi>endeavour</hi> it to our utmoſt; ſo we will, ſo long as we have an hand to lift-up, a Sword or Spear to put in them. And for the Regall Authoritie, that will maintain it ſelfe whether he will or not, <hi>in the preſervation and defence of the true Religion.</hi> But we will endeavour it, as was ſaid, that all the world may witneſſe too, <hi>That we have no thoughts or Intentions to diminiſh his Majeſties juſt Power and Greatneſſe.</hi>
+            </p>
+            <p n="4">IV. And as we ſwear our ſelves Faithfull to <hi>God</hi> and the <hi>King,</hi> to our ſelves and our Birth-right; To maintain the Regall Authoritie ſet over us; ſo alſo we doe ſwear to Diſcover and make known all <hi>Incendiaries, Malignants,</hi> all who are Enemies to all this, endeavouring to make all void, and their utmoſt to cut aſun<g ref="char:EOLhyphen"/>der <hi>the Staffe of Beautie,</hi> That the Covenant may break; <hi>and the Staffe of Bands,</hi> 
+               <note place="margin">Z<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h. 11. 10.</note> That the Brotherhood may break betwixt <hi>Judah</hi> and <hi>Iſrael;</hi> that is the Eye-ſore: But we have ſworn to purſue theſe vile perſons, theſe <hi>Sanballats, Tobiah's,</hi> and <hi>Geſhem's,</hi> even to death, ſentenced thereunto by thoſe, that have Authoritie in their hands <hi>to cut off thoſe Murtherers</hi> from the Earth; or can give-out that Power unto others to execute the vengeance of the Lord upon them.</p>
+            <p>V. By the Providence of our good God, and His exceeding kindneſſe to His People, we that were <hi>twain,</hi> are now made <hi>one,</hi> and as one <hi>Stick</hi> in Gods Hand, <note place="margin">Ez. 33. 19.</note> ready to flee upon the Shoulders of the <hi>Philiſtines,</hi> who were, two Centuries agoe, as <hi>Scorpions,</hi> each to other, flying each at others Faces, and eating each others <note place="margin">Iſ. 9. 21. Iſ. 11. 13.</note> Arm, <hi>Manaſſch Ephraim,</hi> and <hi>Ephraim Manaſſch</hi> Now that the Lord hath Put ſuch a <hi>Pri<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</hi> into our hands, has cauſed <hi>the Envy of Ephraim to depart,</hi> and made manifeſt their Adverſaries to be the Adverſaries of <hi>Judah</hi> alſo; we doe Vow to ſet our Hearts to the maintenance of this <hi>Brotherhood,</hi> That it may be kept firm and faſt for ever.</p>
+            <p>VI. And do theſe Enemies and Adverſaries what they can, as they will do to the length of their Chain, We Swear it, lifting-up our hands to Heaven, That we will do our utmoſt againſt them; thoſe open Adverſaries, and thoſe more ſe<g ref="char:EOLhyphen"/>cret, but more dangerous, who give themſelves to a <hi>deteſtable Indifferency or New<g ref="char:EOLhyphen"/>tralitie in this caſe, which ſo much concerneth the Glory of GOD, The good of the King<g ref="char:EOLhyphen"/>doms, and Ho<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>our of the King;</hi> We are ſworn to doe our utmoſt, that thoſe may he Spewed ſorth: We will Eye them narrowly that make <hi>Diviſions amongst us;</hi>
+               <pb n="11" facs="tcp:111737:8"/> would thruſt us from our God, and withdraw us from our ſtanding in firm Uni<g ref="char:EOLhyphen"/>on, each with other; And we will wiſh that thoſe were <hi>cut off that trouble us;</hi> and what we cannot do, (for we work in our Sphear, and according to our Capaci<g ref="char:EOLhyphen"/>tie and Power of Working) We will Reveal to others, who are in Authoritie, and Place, and will do it, cut them off <hi>betimes,</hi> who ſow Tares of Diſcord, ſo infeſting and troubling us; <hi>All which wee ſhall doe as in the ſight of GOD:</hi> That's well, for then here will be no reſpect of Perſons; If a Brother, a Son, a Daugh<g ref="char:EOLhyphen"/>ter, <note place="margin">Deut. 13.</note> a Wife, a Friend, if any of theſe be a Malignant, or a Neuter, he muſt not be ſpared; Self and Self-reſpects, with References to Him and to Her, to this and to that, has much to Plead here; but all is eaſie Anſwered; We are Sworn Men, we are entred into an Oath, we muſt do as King <hi>Aſa</hi> did, not <hi>Spare;</hi> He is my Friend, perhaps my Childe, (that's the ſorrow:) But he is an Enemy to <hi>God,</hi> to good Men, and to the Churches <hi>beſt Friend, The Lord Jeſus Chriſt:</hi> And a Childe of Be<g ref="char:EOLhyphen"/>lial he is, I cannot be to ſeek what I am to do, having uſed all fair Means, I muſt diſcover my Friend to be an Enemy indeed; and do with the Childe, as the Pa<g ref="char:EOLhyphen"/>rents did with their <hi>Stubborn Childe, Deut.</hi> 21. 18. bring him out unto the Elders; for I do all as in the ſight of GOD.</p>
+            <p>And now we come to the main Point, the very <hi>Center</hi> of Reformation, <hi>Self,</hi> a mans own heart and life; there is the great Point indeed; all the Lines that have been drawn, [and they have been drawn with the greateſt exactneſſe, all the Pru<g ref="char:EOLhyphen"/>dence that we can imagine to be in Man, with Reference ſtill, and directeſt ten<g ref="char:EOLhyphen"/>dency to the onely Rule and end, <hi>The glory of God, and mans eternall good:]</hi> All theſe Lines muſt be <hi>Centered</hi> now in my heart and life, all ends in a perſonall Reformation, for that is all in all to him, that has lifted-up his hand now.</p>
+            <p>We muſt obſerve here, firſt, the wickedneſſe of ſome, not a few, Doctors and Proctors for the Church of <hi>Rome.</hi> 2. The weakneſſe, for I will not call it wic<g ref="char:EOLhyphen"/>kedneſſe of others very many. 1. See the wickedneſſe of this man, he is a <hi>Legion,</hi> I will ſpeak of him ſingle; He cannot take the <hi>Covenant,</hi> he could not take the former,, nor the latter, nor this now; Indeed hee cannot take it, nay, hee will Swear to, and <hi>not Sin;</hi> he has done and can do ſtrange matters, and yet no ſin in all he do's to his Conſcience: He could proclaim an Heatheniſh Libertie to prophane The <hi>Lords Day,</hi> in The <hi>Lords Houſe,</hi> and yet <hi>not ſin;</hi> he ſtrained not at that <hi>Camel,</hi> but ſwallowed it. He could bend before Altars, and ſet-up Images, and <hi>not Sin:</hi> Twenty things more, the groſſeſt abominations that can be na<g ref="char:EOLhyphen"/>med, he can do, and <hi>not Sin;</hi> keep two Livings, three for failing, and attend nei<g ref="char:EOLhyphen"/>ther, and <hi>not Sin;</hi> ſpill the blood of Souls, and <hi>not Sin:</hi> But a <hi>Covenant</hi> he cannot take, and <hi>not Sin;</hi> That, like a Bone ſticks in his Throat, he cannot ſwallow that, and <hi>not Sin.</hi> This bruitſh man muſt not be ſpared, ſuch a <hi>Notorious — </hi>Perſon, we muſt never ceaſe wiſhing, that he were cut off, who ſo troubles us; That this vile Perſon, (for you heard what abominations he do's, yet ſayes he do's <hi>not Sin;</hi> and what he will not do, leſt he ſin: That this ſo Vile a Perſon (a Docter, a Teacher of Lies) may be ſet apart, as was the <hi>Leper,</hi> (for he is as Infectious) left he infect others, I will aſſure the Reader, what that is which makes this man ſlie from a Covenant; He is not ſo Bruitiſh, blinde, or <hi>Seared,</hi> (though all this he
+<pb n="12" facs="tcp:111737:9"/> is) as not to allow of this <hi>Covenant.</hi> Why do's he not take it then? As ſure as we live, I can tell why? becauſe it ends in a Perſonall Reformation of all that is amiſſe; he will never take it, for he is amiſſe, and beſides his Rule in all he do's: and if he enter into Covenant now, he ſwears to overſee himeſlf; himſelf firſt, then others, Wife, Children, and ſervants; his <hi>own Houſe,</hi> then the <note place="margin">Act. 20. 28. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Tun. 3 4. 4. 16. Tit. 2. 7.</note> Houſe of <hi>God.</hi> But this is not all, though he never did any of all this, if he en<g ref="char:EOLhyphen"/>ters into Covenant, he muſt ſhut his Ears from <hi>Hearing Blood,</hi> and he has ſhed the Blood of Soules, with no more Regret than he ſwallows Wine, wherewith many times he is <hi>ſwallowed up:</hi> he muſt ſhake his Lap at unjuſt gain, but he can<g ref="char:EOLhyphen"/>not ſhake hands with his two Livings; He muſt, but I forbear: I have ſaid enough <note place="margin">Iſa. 28. 7,</note> to declare his wickedneſſe, and becauſe he is a <hi>Doctor</hi> (a Teacher of others) I will ſay but this, he is another <hi>Mountebanke,</hi> he can ſtab his body for gain; ſo this Doctor, his Soul, and <hi>not Sin.</hi> See their wickedneſſe! We have ſworn to do our utmoſt that theſe may be cut off, who have taken Peace from the Earth.</p>
+            <p n="2">2. See the weakneſſe of others, very many, their ignorance rather, and pity it: They will read the Covenant, then raiſe Queſtions and make Doubts about it, which <hi>Momus</hi> himſelf would ſcarce do, who had an Art, and made it his trade to make faults where he found none, They will, I ſay, make queſtions about the beginning, or midſt, or thereabouts, and quickly receive ſatitfaction to all their doubts; and then they enter into it, never queſtioning the laſt point, that great point, touching Perſonall and houſhold Reformation; They never made queſti<g ref="char:EOLhyphen"/>on there for Conſcience ſake: I mean, not touching the lawfulneſſe of it, for there can be no queſtion, but touching the performance at this point, <hi>ſtanding</hi> to that they have ſo ſolemnly Covenanted to perform; They had not one ſerious thought upon this matter: It is their ignorance. Bleſſed be God, there ſhall be a courſe taken to thruſt out this vile Parſon, their <hi>Doctor,</hi> and to put in a precious Perſon in his Room, who will make it his work to inſtruct and teach their poor people touching this laſt point, <hi>Perſonall Reformation,</hi> which is the <hi>Bottom</hi> and <hi>Center</hi> of all we have ſworn unto, even every Mothers Childe, which is to bring home all this to himſelf, there To Center all, in his own heart and life; This is the work in<g ref="char:EOLhyphen"/>deed, this is the labour, This Perſonall Reformation, the Centering of it in a Mans ſelf, and ſhewing it forth in a mans life and converſation: And were it not that with <hi>God</hi> all things are poſſible, and he requires no more of a People, but that they be a people of <hi>willingneſſes,</hi> (and he makes them ſo) were it not for <note place="margin">P<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 110. 3.</note> this, the beſt man amongſt us would flie-back from this work, or faint before it, conſidering the mighty oppoſition he muſt meet with now; the potent Adverſa<g ref="char:EOLhyphen"/>ries he muſt contend againſt; The Devils in Hell, and thoſe in the Ayre, and all his Servants on earth. The Devill will give him good leave to lift up the hand for company to all the fore-mentioned; To contend for Religion, to fight for Re<g ref="char:EOLhyphen"/>ligion, to be all (in ſhew) for Religion; but when Religion (it contains all) comes to be bottomed, and Centered in a mans heart and life, thou muſt be all this, Reli<g ref="char:EOLhyphen"/>gious and Faithfull, and not for thy ſelf onely, but for all thy houſhold, all under thy charge, and over ſight: when it comes to ſettle here, as upon the true <hi>Baſis</hi> and proper place, then what ſtirs are here! What an oppoſition!</p>
+            <pb n="13" facs="tcp:111737:9"/>
+            <p> I can more then gueſſe now what are the <hi>Wiles, Depths, Devices,</hi> workings of Satan this way with every good man; Theſe are the turnings and windings of the crooked Serpent: <hi>Thou haſt vowed to ſerve God; ſerve Him; But for the matter of worſhip, as God has preſcribed: And manner, with the whole heart, as God has com<g ref="char:EOLhyphen"/>manded, There is the oppoſition.</hi> The main Brunt will be on the <hi>Lords Day,</hi> touching that Solemnitie on that day, and the Services proper to the day. The man will perceive how ſubtle the Adverſary is, as much againſt the Due obſerving of The Lords Day, as againſt The Lord Himſelf. What needs all this ſtrictneſſe? <hi>The Sabbath is made for Man, not you for the Sabbath: Sit out thy houre at Church in the Morning, and as long at Evening, and then recreate thy ſelf; God ſayes,</hi> He will have mercy; <hi>Better, and wiſer then thy ſelf ſay ſo, and do ſo, Archbiſhops, and Biſhops with their Curates; and give thee fair allowance ſo to do, in like manner as they do, and teach. Fool as thou art, and ſlow to underſtanding, what is Chriſtian libertie!</hi> Thou art now repeating the Sermon, when thou mighteſt, [with leſſe danger of an Earthly Priſon, when time was] be elſewhere, in the fields [walking and doing after the Pleaſure of thine own Eye.]</p>
+            <p>Reader, do not think ſlightly of this, how ever it ſeems; be confident, the Devill works ſtrongly, and prevails mightily by precedents; preſenting before common Eyes, the example of Biſhops, how they have or do walk before the People.</p>
+            <p>It is true, there are examples of Gods Judgements, which might be preſented here in viſible Characters, and as terrible as was the writing on the Wall, upon <note place="margin">
+                  <hi>Dan</hi> 5.</note> thoſe that have done as the Divell has perſwaded them, and as the example of Biſhops have led-on; for has not The <hi>Lord</hi> Remembred all thoſe abhominati<g ref="char:EOLhyphen"/>ons, the Breach of His <hi>onely Holy Day?</hi> Has he not remembred all this, and re<g ref="char:EOLhyphen"/>quired it of the Biſhops, and thoſe, that have practiſed according to theſe abho<g ref="char:EOLhyphen"/>minations, The Biſhops allowance and Rule? But we go-on, The Biſhops car<g ref="char:EOLhyphen"/>ried it, and their examples are ſnares at this day, and their words <hi>eat as a Gan<g ref="char:EOLhyphen"/>grene;</hi> for which we ought, and ſo we lift-up the hands to be humbled, for what our own hearts have done, and what the Biſhops have done: and, becauſe we were ſo well content <hi>to have it ſo.</hi> I did not value the <hi>Everlaſting Goſpel;</hi> If I had ſo done, I had contended for it, and more ſet my ſelf, againſt my ſelf, and thoſe Men, and their Doctrines. But I return where I digreſſed, how the Divell works with this Man, now he has lifted up his hand to the living <hi>God; The Divell tells him, If thou wilt be ſtrict, be ſtrict for thy ſelf; be not ſo for thy Houſhold, Children and Servants there; they may take the Recreations, as is allowed them by the Biſhops, who are not ſo preciſe,</hi> [No, their houſes were the Tabernacles of Robbers, and as the Mountains of Prey; Wilder Folk then <hi>Satyr's</hi> danced there; Therefore, though their houſe be not yet made a Dunghill, as that infamous <hi>Lords-</hi>Houſe was; <note place="margin">2 Kings 10. 27.</note> yet, Bleſſed be <hi>God,</hi> they are Priſons to hold thoſe, who are almoſt as bad as themſelves, and made ſo bad by their Biſhops example.</p>
+            <p>Thou wilt Pardon me Reader, if I am confuſed here; when I look off my own heart, as too often I do, then I look upon Archbiſhops, Biſhops, and their Curates, all the Brutiſh Paſtors in the Land, as upon the fomentors of theſe Di<g ref="char:EOLhyphen"/>viſions;
+<pb n="14" facs="tcp:111737:10"/> Cauſers of theſe Diſtractions; Authors of theſe Confuſions in our Land: Therefore I ſhall never mention them, or any of theſe, but as <hi>Jeroboam</hi> is mentioned in the Sacred Records, <hi>Archbiſhops, and Biſhops, &amp;c. That made Iſrael to ſin;</hi> Prophaning The Lords Day by a Law; ſtopping the Mouths of Mi<g ref="char:EOLhyphen"/>niſters; thruſting them aſide, to hang like an Inſtrument, whoſe ſtrings are let<g ref="char:EOLhyphen"/>down; or thruſt-up into a corner, as if of no more worth then themſelves; like a <hi>Veſſell wherein is no Pleaſure.</hi> We Vow to be humbled for all theſe Blaſphe<g ref="char:EOLhyphen"/>mies, Impieties, Iniquities, for all that our own beguiled hearts have done here; and all that theſe men have done, by their examples: We Vow alſo to be aven<g ref="char:EOLhyphen"/>ged of them; and to reforme every man himſelf, there to <hi>Center</hi> Reformation; And thus the good Souldier (A Chriſtian indeed, maintaining his <hi>Militia)</hi> Re<g ref="char:EOLhyphen"/>ſolved for his own part (the Subject of the next Treatiſe) and ſo by the good hand of God with him, he confounds his Adverſarys, and lives above example, according to the Rule, and Tenour of the <hi>Curſe</hi> and <hi>Oath</hi> he has entered into; and to follow no man now, but as he follows Chriſt; Who is given a <hi>Leader and Commander</hi> to His People: And ſo to take care, ſpeciall care of his family alſo intruſted to his care by The <hi>Lord</hi> Himſelf as (in another Caſe, and in a figure that Man <note n="(a)" place="margin">1 King. 20. 39.</note> was,) <hi>See unto them, thy Children, thy Servants there, they have the like precious Soul, all one at that point of Cure, Children, and Servants all one, their Souls as pretious, as thine, bought with the ſame Price; Heirs to the ſame Inheritance; pretious Souls as thine; Thine and Theirs more pretious then a World, then all earthly things there, more ex<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elling then the San, when it ſhines in his ſtrength; Theſe Souls are thy charge, look to them, if they miſcarry, if th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe periſh by thy means, and default, they dye in their ſins, but their blood ſhall be required at thy hands, life for life, though not in exchange, yet both ſhall periſh together.</hi> Therefore this man conſidering the <hi>terrour of the Lord,</hi> walks wiſely in the midſt of his houſe; he keeps a day to The <hi>Lord</hi> himſelf, ſo ſhall his houſe too, all the perſons within his gates; To be ſhort in ſo clear a matter, ſo fully charged upon the Governers (for Souls know no ſex,) <hi>Abraham will command his children</hi> 
+               <note n="(b)" place="margin">Gen 18. 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>. <hi>As for me and my Houſe, we will ſerve the Lord</hi> 
+               <note n="(c)" place="margin">Ioſh. 24. 15.</note>, <hi>I and my Maidens</hi> 
+               <note n="(d)" place="margin">Eſte<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 4 16</note>; <hi>feared God with all his Houſe</hi> 
+               <note n="(e)" place="margin">Act. 10. 2.</note>: Reformation is Perſonall; it is centered and bottomed in ſelf, ſelf Reformation, in the heart and life; He hath lifted-up the hand To all this, he has ſubſcribed his Name unto it. We muſt now obſerve, in the ſecond place, the ſolemnitie of theſe Actions, and then we ſhall the better ſee every man his own engagement.</p>
+            <p n="2">II. He <hi>lifts up his hand,</hi> he <hi>ſubſcribes his name:</hi> His hand next week may be a<g ref="char:EOLhyphen"/>ſleep in the duſt, but he has ſubſcribed his Name; That lives, when the Man is dead. But the leaſt is in that, though that tells it to poſteritie; ce<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tainly there was never ſuch a thing, ſo done in our <hi>Iſrael.</hi>
+            </p>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Yes, you will ſay, we proteſted and entred into Covenant, twice in all the Peoples ſight.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</speaker>
+               <p>T<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ue, but we did not <hi>lift up the hand.</hi> I do not doubt, but every honeſt man lifte<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>-up the heart, thoſe other times, To that ſolemn Work, Vow, and Cove<g ref="char:EOLhyphen"/>nant formerly entered into.</p>
+            </sp>
+            <sp>
+               <speaker>A,</speaker>
+               <p>That is the better P<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e of the two, is it not?</p>
+            </sp>
+            <sp>
+               <pb n="15" facs="tcp:111737:10"/>
+               <speaker>B.</speaker>
+               <p>No, for two Reaſons, and a third which is chief of all. Firſt, it is not ſo ſutable to the Work of the Day: I Covenant now in all the Peoples ſight; Therefore the greateſt Reaſon in the World. That they ſhould ſee what I do.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Well, but I lift-up my heart.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Very well, but how can the People tell that?</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>A Phariſee! He will be ſeen of men.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Yes, at ſuch a ſolemn time, as this is, he muſt not creep into a corner. In theſe Caſes, and at ſuch Solemnities, he muſt confeſſe his <hi>God</hi> before Men, elſe he knows what follows <note n="(f)" place="margin">Matth. 10 33. Lake 12. 9.</note>. I hope I ſhall never forget what the <hi>Martyrs</hi> did in Ancient times; if they would have offered a grain of Incenſe to the Idol, they might have kept their skins upon their fleſh, and their fleſh ſound and whole; but, becauſe they would not do ſo much, their skin was torne from their Shoulders, and their fleſh from their Bones. <q rend="margQuotes">"But this is it, which I intend, The Adverſary was more weary in tormenting, then Chriſtians were in ſuffering their torments; So the Adverſary tryed them with gentle perſwaſions; ſaying, ye ſhall not offer unto our (Idol) god, no not ſo much as a grain of Incenſe: Ye ſhall but make an offer onely, a <hi>ſemblance</hi> and no more, and I will ſatisfie My Maſter the Emperour, and the People too; For I will ſay <hi>yee have offered.</hi>
+                  </q> And ſo the Adverſary ſaid in the face of the Aſſembly, <hi>The Chriſtians have offered to our god.</hi> Now mark: No ſaid the Chriſtians, lifting-up their hands and their voyces. <hi>No, we are Chriſtians, Theſe hands have not offered, no not a grain; nor will we offer; No, we will ſuffer our skin to be pulled over our heads, and our fleſh from our bones, rather then we will offer ſo much as one grain to a ſtrange god;</hi> We did not do it, we will never do it, no, never, never; See there! There is much more, a moſt Notable <note place="margin">
+                     <hi>Euſeb. l</hi> 8. <hi>H.</hi> 1. <hi>Tr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>p. l.</hi> 6. <hi>Eut. c.</hi> 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> Hiſtory, you muſt gather in up, here and there, Theſe witneſſed a good confeſſion before men. And now! But I forbear, though it is hard to take off my hand from this work. This is the example, and 'tis to our purpoſe, when God calls us forth to confeſſe Him, as now He does, to Covenant with Him, we muſt do it after this manner, in all the Peoples ſight. In ſuch caſes (I ſay again) and at ſuch ſolemnities, I muſt do, as I may be ſeen; That is one Reaſon, why I am commanded to <hi>lift-up my hand,</hi> and it is a mighty Reaſon, There is another as good.</p>
+            </sp>
+            <p n="2">2. I lift-up my hand, I ſubſcribe my name, ſo giving a cleer atteſtation before all the People; That I lift-up my <hi>heart</hi> to the work. <hi>viz.</hi> All, that I have lifted-up my hand unto, I will, by Gods grace, endeavour to performe. It is my full purpoſe ſo; I will center and bottome all, contained there, in my own heart. I have vowed with my Mouth, By Gods help (and without that I can do nothing, but ſin againſt Him) but by His help, what my tongue proteſted, my hand ſhall fulfill, and my hand ſhall ſubſcribe unto it too, which makes the obligations ſtronger: I cannot withdraw back now and proſper; <hi>Pilate</hi> will reprove me if ſo I do; I have ſubſcribed to all this, and <hi>what I have written, I have written:</hi> It is the full purpoſe of my heart, not to alter now after this Solemnitie, whereof there is yet a third Reaſon, and that is Mighty, for, in ſo doing, we do as <hi>God</hi> has done before us.</p>
+            <pb n="16" facs="tcp:111737:11"/>
+            <p> 3. It is after the very manner of <hi>God</hi> Himſelf, when He ſweareth to ſhew Mercy, or execute Judgement upon His People: What does He do then? Then, to aſſure His People, who are very flow to beleeve, that He will very certainly performe with them, as He hath ſworn; then we obſerve this Poſture of the hands lift-up, often in one Chapter, nay in one breath, <hi>I lifted up My hand,</hi> ſayes <note place="margin">Ezek. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0.</note> The <hi>Lord, To the ſeed of Jacob.</hi> The geſture is according to the example of <hi>God</hi> Himſelf, who ſpeaks with <hi>His Mouth, and fulfils with His hand;</hi> And after the ſame manner His ſervant <hi>Abraham, I lift up my hand unto The moſt high God:</hi> So have we done, as The <hi>Lord</hi> does; as <hi>Abraham</hi> did, ſo have we done, every Man for him<g ref="char:EOLhyphen"/>ſelf, <hi>lifted up the hand to The moſt high God,</hi> ſubſcribed alſo with the ſame hand unto The <hi>Lord,</hi> and <hi>ſirnamed every Man Himſelf, by the Name of Iſrael:</hi> There is the center of Reformation, Self, Perſonall Reformation; So the true Chriſtian Souldier hath Covenanted for himſelf, and with his <hi>God.</hi> And now what his <hi>Lord</hi> hath promiſed to do for all His <hi>Iſrael, I will purge out from among you the Re<g ref="char:EOLhyphen"/>bels</hi> 
+               <note n="(g)" place="margin">Ezek. 20 28.</note>, the ſame will He do for this Man; He will do it in His own and beſt time, It ſhall be done: In the mean time, The Rebels within the Man, for there they be, ſhall be ſo maſtered, ſubdued, overpowred, that they ſhall do the Man good ſervice; they ſhall try, and prove him; edge and purifie his graces: And all the Rebels without, ſhall do him <hi>no hurt.</hi> Now that he is in Covenant with <hi>God,</hi> knows <hi>This God,</hi> now <hi>he ſhall be ſtrong, and do</hi> 
+               <note n="(h)" place="margin">Dan. 11. 32.</note>. What ſhall he do? I can<g ref="char:EOLhyphen"/>not tell, For the originall Hebrew does not tell me: but <hi>do</hi> he ſhall, ſtrange things, above reaſon, above hope, above his prayers too: he ſhall put a legion of Divels to flight; he ſhall leap over a <hi>wall,</hi> and skip over a <hi>mountain,</hi> for it ſhalbe a plain before him, the <hi>Lyon</hi> and the <hi>Bear</hi> ſhall not hinder him in his way, nor diſcourage him; his way is made <hi>paſſable,</hi> and every work to him <hi>poſſible.</hi> He can do; What? <hi>All things;</hi> And this is to do <hi>exploites</hi> as we read it, for <hi>God</hi> is with him, his <hi>God,</hi> a God in Covenant with him; <hi>he can do exploites.</hi> But this, with other things of infinite concernment to Kingdoms, and every perſon there, will make a fuller Treatiſe, then this, which I will conclude now, and ſhut-up; So I, ſo thou, as the Souldier before, have entered into <hi>Covenant;</hi> how <hi>grave</hi> for the <hi>matter;</hi> how <hi>ſolemn</hi> for the <hi>manner!</hi> The <hi>Lord</hi> give us grace to under<g ref="char:EOLhyphen"/>ſtand, that we may do accordingly. And then no matter what the Adverſary does againſt us; he does, as an adverſary, what miſchief he can, according to the power in his hand: But no matter though the gates of hell open upon us, and ſtand in defiance againſt us. Stand we to our Covenant, with full purpoſe of heart to keep unto it, and cloſe to our <hi>God;</hi> What then? We can ſtand a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> defiance too, not fear <hi>their fear;</hi> not fear the Divell, nor ſin, nor death; for we may make <hi>Pauls</hi> challenge. We fear <hi>God,</hi> fear onely to diſpleaſe him, are in Co<g ref="char:EOLhyphen"/>venant with Him, by His good hand with us, we are reſolved, with full pur<g ref="char:EOLhyphen"/>poſe of heart, to keep cloſe to Him; and we are ſure He will ſtand by us, and then we have <hi>enough</hi> ſtrength on our ſide. For <hi>God</hi> is with us, and He is <hi>All,</hi> All ſufficient. <hi>Amen,</hi> even ſo <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
